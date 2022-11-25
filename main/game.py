@@ -1,5 +1,6 @@
 import random
 
+# You can easily add a topic from the dictionary bellow. The format will be 'Topic': ('answer1', 'answer2',),...
 topic = {
     'Transportation': ("car", "truck", "bicycle", "unicycle", "train", "airplane"
     , "helicopter", 'tricycle', 'motorcycle', 'bus'),
@@ -157,9 +158,4 @@ while prog_on:
             break
         if btdd:
             continue
-        
-
-
-
-
-
+            
